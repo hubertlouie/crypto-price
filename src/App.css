@@ -1,0 +1,62 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+.nav{
+  margin-top: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title{
+  color: #700B97
+  ;
+}
+
+.search{
+  margin-top: 30px;
+  width: 500px;
+}
+.content{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.coinContainer{
+  width: 1200px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: #00000000 ;
+}
+
+.coinTitleCon{
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+hr{
+  margin: 0;
+}
+
+.coin{
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.coinTitle{
+  font-size: 20px;
+  color: #8E05C2;
+}
+
+.coinChange{
+  width: 100px;
+  height: 30px;
+  font-size: 12px;
+}
+
